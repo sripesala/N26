@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: n26-api
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: sripe
+Implementation-Vendor-Id: com.n26
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/n26-api
+Created-By: Maven Integration for Eclipse
+
